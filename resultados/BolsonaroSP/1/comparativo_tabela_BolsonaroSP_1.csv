@@ -1,0 +1,5 @@
+,texto,likes,likes,comentarios,comentarios,prob_negativo
+,count,sum,mean,sum,mean,mean
+rede,,,,,,
+Instagram,993,6266,6.27,420.0,0.42,0.27
+Twitter,802,800,1.0,0.0,0.0,0.58

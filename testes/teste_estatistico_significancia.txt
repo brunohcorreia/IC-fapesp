@@ -1,0 +1,9 @@
+=== TESTE DE MANN-WHITNEY U (NEGATIVIDADE) ===
+H0: Não há diferença entre a negatividade do Insta e Twitter.
+H1: Existe diferença significativa entre as redes.
+
+Estatística U: 14975194.5000
+p-valor: 1.1260e-178
+Resultado: ESTATISTICAMENTE RELEVANTE (nível de confiança de 95%)
+
+Conclusão: As redes possuem comportamentos emocionais distintos.

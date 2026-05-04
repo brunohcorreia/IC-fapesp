@@ -1,0 +1,508 @@
+.
+├── BolsonaroSP
+│   ├── 1
+│   │   ├── comparativo_engajamento.png
+│   │   ├── comparativo_sentimentos.png
+│   │   ├── comparativo_tabela_BolsonaroSP_1.csv
+│   │   ├── extra_scatter_correlacao_likes.png
+│   │   ├── extra_venn_diagram.png
+│   │   ├── instagram
+│   │   │   ├── analise_sentimento_BolsonaroSP_1_instagram.csv
+│   │   │   ├── eda_correlacao_heatmap.png
+│   │   │   ├── eda_distribuicao_texto.png
+│   │   │   ├── eda_resumo_estatistico.csv
+│   │   │   ├── eda_timeline_engajamento.png
+│   │   │   ├── extra_bigramas.csv
+│   │   │   ├── extra_heatmap_horarios.png
+│   │   │   ├── extra_outliers_posts.csv
+│   │   │   ├── extra_scatter_negatividade_vs_likes.png
+│   │   │   ├── extra_scatter_tamanho_vs_likes.png
+│   │   │   ├── extra_trigramas.csv
+│   │   │   ├── frequencia_palavras_total_BolsonaroSP_1_instagram.csv
+│   │   │   ├── lda_topicos_BolsonaroSP_1_instagram.csv
+│   │   │   ├── nuvem_palavras_BolsonaroSP_1_instagram.png
+│   │   │   ├── ranking_hashtags_BolsonaroSP_1_instagram.csv
+│   │   │   ├── ranking_mencoes_BolsonaroSP_1_instagram.csv
+│   │   │   ├── resumo_contagem_sentimentos.csv
+│   │   │   ├── sentimento_distribuicao.png
+│   │   │   ├── sentimento_timeline.png
+│   │   │   └── sentimento_vs_likes_boxplot.png
+│   │   ├── metricas_gap_odio.txt
+│   │   ├── nuvem_palavras_CONJUNTA.png
+│   │   ├── twitter
+│   │   │   ├── analise_sentimento_BolsonaroSP_1_twitter.csv
+│   │   │   ├── eda_correlacao_heatmap.png
+│   │   │   ├── eda_distribuicao_texto.png
+│   │   │   ├── eda_resumo_estatistico.csv
+│   │   │   ├── eda_timeline_engajamento.png
+│   │   │   ├── extra_bigramas.csv
+│   │   │   ├── extra_heatmap_horarios.png
+│   │   │   ├── extra_outliers_posts.csv
+│   │   │   ├── extra_scatter_negatividade_vs_likes.png
+│   │   │   ├── extra_scatter_tamanho_vs_likes.png
+│   │   │   ├── extra_trigramas.csv
+│   │   │   ├── frequencia_palavras_total_BolsonaroSP_1_twitter.csv
+│   │   │   ├── lda_topicos_BolsonaroSP_1_twitter.csv
+│   │   │   ├── nuvem_palavras_BolsonaroSP_1_twitter.png
+│   │   │   ├── ranking_hashtags_BolsonaroSP_1_twitter.csv
+│   │   │   ├── ranking_mencoes_BolsonaroSP_1_twitter.csv
+│   │   │   ├── resumo_contagem_sentimentos.csv
+│   │   │   ├── sentimento_distribuicao.png
+│   │   │   ├── sentimento_timeline.png
+│   │   │   └── sentimento_vs_likes_boxplot.png
+│   │   └── vocabulario_exclusivo.txt
+│   ├── 2
+│   │   ├── comparativo_engajamento.png
+│   │   ├── comparativo_sentimentos.png
+│   │   ├── comparativo_tabela_BolsonaroSP_2.csv
+│   │   ├── extra_scatter_correlacao_likes.png
+│   │   ├── extra_venn_diagram.png
+│   │   ├── instagram
+│   │   │   ├── analise_sentimento_BolsonaroSP_2_instagram.csv
+│   │   │   ├── eda_correlacao_heatmap.png
+│   │   │   ├── eda_distribuicao_texto.png
+│   │   │   ├── eda_resumo_estatistico.csv
+│   │   │   ├── eda_timeline_engajamento.png
+│   │   │   ├── extra_bigramas.csv
+│   │   │   ├── extra_heatmap_horarios.png
+│   │   │   ├── extra_outliers_posts.csv
+│   │   │   ├── extra_scatter_negatividade_vs_likes.png
+│   │   │   ├── extra_scatter_tamanho_vs_likes.png
+│   │   │   ├── extra_trigramas.csv
+│   │   │   ├── frequencia_palavras_total_BolsonaroSP_2_instagram.csv
+│   │   │   ├── lda_topicos_BolsonaroSP_2_instagram.csv
+│   │   │   ├── nuvem_palavras_BolsonaroSP_2_instagram.png
+│   │   │   ├── ranking_hashtags_BolsonaroSP_2_instagram.csv
+│   │   │   ├── ranking_mencoes_BolsonaroSP_2_instagram.csv
+│   │   │   ├── resumo_contagem_sentimentos.csv
+│   │   │   ├── sentimento_distribuicao.png
+│   │   │   ├── sentimento_timeline.png
+│   │   │   └── sentimento_vs_likes_boxplot.png
+│   │   ├── metricas_gap_odio.txt
+│   │   ├── nuvem_palavras_CONJUNTA.png
+│   │   ├── twitter
+│   │   │   ├── analise_sentimento_BolsonaroSP_2_twitter.csv
+│   │   │   ├── eda_correlacao_heatmap.png
+│   │   │   ├── eda_distribuicao_texto.png
+│   │   │   ├── eda_resumo_estatistico.csv
+│   │   │   ├── eda_timeline_engajamento.png
+│   │   │   ├── extra_bigramas.csv
+│   │   │   ├── extra_heatmap_horarios.png
+│   │   │   ├── extra_outliers_posts.csv
+│   │   │   ├── extra_scatter_negatividade_vs_likes.png
+│   │   │   ├── extra_scatter_tamanho_vs_likes.png
+│   │   │   ├── extra_trigramas.csv
+│   │   │   ├── frequencia_palavras_total_BolsonaroSP_2_twitter.csv
+│   │   │   ├── lda_topicos_BolsonaroSP_2_twitter.csv
+│   │   │   ├── nuvem_palavras_BolsonaroSP_2_twitter.png
+│   │   │   ├── ranking_hashtags_BolsonaroSP_2_twitter.csv
+│   │   │   ├── ranking_mencoes_BolsonaroSP_2_twitter.csv
+│   │   │   ├── resumo_contagem_sentimentos.csv
+│   │   │   ├── sentimento_distribuicao.png
+│   │   │   ├── sentimento_timeline.png
+│   │   │   └── sentimento_vs_likes_boxplot.png
+│   │   └── vocabulario_exclusivo.txt
+│   ├── 3
+│   │   ├── comparativo_engajamento.png
+│   │   ├── comparativo_sentimentos.png
+│   │   ├── comparativo_tabela_BolsonaroSP_3.csv
+│   │   ├── extra_scatter_correlacao_likes.png
+│   │   ├── extra_venn_diagram.png
+│   │   ├── instagram
+│   │   │   ├── analise_sentimento_BolsonaroSP_3_instagram.csv
+│   │   │   ├── eda_correlacao_heatmap.png
+│   │   │   ├── eda_distribuicao_texto.png
+│   │   │   ├── eda_resumo_estatistico.csv
+│   │   │   ├── eda_timeline_engajamento.png
+│   │   │   ├── extra_bigramas.csv
+│   │   │   ├── extra_heatmap_horarios.png
+│   │   │   ├── extra_outliers_posts.csv
+│   │   │   ├── extra_scatter_negatividade_vs_likes.png
+│   │   │   ├── extra_scatter_tamanho_vs_likes.png
+│   │   │   ├── extra_trigramas.csv
+│   │   │   ├── frequencia_palavras_total_BolsonaroSP_3_instagram.csv
+│   │   │   ├── lda_topicos_BolsonaroSP_3_instagram.csv
+│   │   │   ├── nuvem_palavras_BolsonaroSP_3_instagram.png
+│   │   │   ├── ranking_hashtags_BolsonaroSP_3_instagram.csv
+│   │   │   ├── ranking_mencoes_BolsonaroSP_3_instagram.csv
+│   │   │   ├── resumo_contagem_sentimentos.csv
+│   │   │   ├── sentimento_distribuicao.png
+│   │   │   ├── sentimento_timeline.png
+│   │   │   └── sentimento_vs_likes_boxplot.png
+│   │   ├── metricas_gap_odio.txt
+│   │   ├── nuvem_palavras_CONJUNTA.png
+│   │   ├── twitter
+│   │   │   ├── analise_sentimento_BolsonaroSP_3_twitter.csv
+│   │   │   ├── eda_correlacao_heatmap.png
+│   │   │   ├── eda_distribuicao_texto.png
+│   │   │   ├── eda_resumo_estatistico.csv
+│   │   │   ├── eda_timeline_engajamento.png
+│   │   │   ├── extra_bigramas.csv
+│   │   │   ├── extra_heatmap_horarios.png
+│   │   │   ├── extra_outliers_posts.csv
+│   │   │   ├── extra_scatter_negatividade_vs_likes.png
+│   │   │   ├── extra_scatter_tamanho_vs_likes.png
+│   │   │   ├── extra_trigramas.csv
+│   │   │   ├── frequencia_palavras_total_BolsonaroSP_3_twitter.csv
+│   │   │   ├── lda_topicos_BolsonaroSP_3_twitter.csv
+│   │   │   ├── nuvem_palavras_BolsonaroSP_3_twitter.png
+│   │   │   ├── ranking_hashtags_BolsonaroSP_3_twitter.csv
+│   │   │   ├── ranking_mencoes_BolsonaroSP_3_twitter.csv
+│   │   │   ├── resumo_contagem_sentimentos.csv
+│   │   │   ├── sentimento_distribuicao.png
+│   │   │   ├── sentimento_timeline.png
+│   │   │   └── sentimento_vs_likes_boxplot.png
+│   │   └── vocabulario_exclusivo.txt
+│   ├── CONSOLIDADO_GERAL_BolsonaroSP.csv
+│   ├── evolucao_likes_posts.png
+│   ├── evolucao_negatividade.png
+│   ├── extra_heatmap_correlacao.png
+│   ├── extra_radar_contraste.png
+│   ├── extra_venn_triplo_BolsonaroSP.png
+│   └── nuvem_palavras_TOTAL_BolsonaroSP.png
+├── GayerGus
+│   ├── 1
+│   │   ├── comparativo_engajamento.png
+│   │   ├── comparativo_sentimentos.png
+│   │   ├── comparativo_tabela_GayerGus_1.csv
+│   │   ├── extra_scatter_correlacao_likes.png
+│   │   ├── extra_venn_diagram.png
+│   │   ├── instagram
+│   │   │   ├── analise_sentimento_GayerGus_1_instagram.csv
+│   │   │   ├── eda_correlacao_heatmap.png
+│   │   │   ├── eda_distribuicao_texto.png
+│   │   │   ├── eda_resumo_estatistico.csv
+│   │   │   ├── eda_timeline_engajamento.png
+│   │   │   ├── extra_bigramas.csv
+│   │   │   ├── extra_heatmap_horarios.png
+│   │   │   ├── extra_outliers_posts.csv
+│   │   │   ├── extra_scatter_negatividade_vs_likes.png
+│   │   │   ├── extra_scatter_tamanho_vs_likes.png
+│   │   │   ├── extra_trigramas.csv
+│   │   │   ├── frequencia_palavras_total_GayerGus_1_instagram.csv
+│   │   │   ├── lda_topicos_GayerGus_1_instagram.csv
+│   │   │   ├── nuvem_palavras_GayerGus_1_instagram.png
+│   │   │   ├── ranking_hashtags_GayerGus_1_instagram.csv
+│   │   │   ├── ranking_mencoes_GayerGus_1_instagram.csv
+│   │   │   ├── resumo_contagem_sentimentos.csv
+│   │   │   ├── sentimento_distribuicao.png
+│   │   │   ├── sentimento_timeline.png
+│   │   │   └── sentimento_vs_likes_boxplot.png
+│   │   ├── metricas_gap_odio.txt
+│   │   ├── nuvem_palavras_CONJUNTA.png
+│   │   ├── twitter
+│   │   │   ├── analise_sentimento_GayerGus_1_twitter.csv
+│   │   │   ├── eda_correlacao_heatmap.png
+│   │   │   ├── eda_distribuicao_texto.png
+│   │   │   ├── eda_resumo_estatistico.csv
+│   │   │   ├── eda_timeline_engajamento.png
+│   │   │   ├── extra_bigramas.csv
+│   │   │   ├── extra_heatmap_horarios.png
+│   │   │   ├── extra_outliers_posts.csv
+│   │   │   ├── extra_scatter_negatividade_vs_likes.png
+│   │   │   ├── extra_scatter_tamanho_vs_likes.png
+│   │   │   ├── extra_trigramas.csv
+│   │   │   ├── frequencia_palavras_total_GayerGus_1_twitter.csv
+│   │   │   ├── lda_topicos_GayerGus_1_twitter.csv
+│   │   │   ├── nuvem_palavras_GayerGus_1_twitter.png
+│   │   │   ├── ranking_hashtags_GayerGus_1_twitter.csv
+│   │   │   ├── ranking_mencoes_GayerGus_1_twitter.csv
+│   │   │   ├── resumo_contagem_sentimentos.csv
+│   │   │   ├── sentimento_distribuicao.png
+│   │   │   ├── sentimento_timeline.png
+│   │   │   └── sentimento_vs_likes_boxplot.png
+│   │   └── vocabulario_exclusivo.txt
+│   ├── 2
+│   │   ├── comparativo_engajamento.png
+│   │   ├── comparativo_sentimentos.png
+│   │   ├── comparativo_tabela_GayerGus_2.csv
+│   │   ├── extra_scatter_correlacao_likes.png
+│   │   ├── extra_venn_diagram.png
+│   │   ├── instagram
+│   │   │   ├── analise_sentimento_GayerGus_2_instagram.csv
+│   │   │   ├── eda_correlacao_heatmap.png
+│   │   │   ├── eda_distribuicao_texto.png
+│   │   │   ├── eda_resumo_estatistico.csv
+│   │   │   ├── eda_timeline_engajamento.png
+│   │   │   ├── extra_bigramas.csv
+│   │   │   ├── extra_heatmap_horarios.png
+│   │   │   ├── extra_outliers_posts.csv
+│   │   │   ├── extra_scatter_negatividade_vs_likes.png
+│   │   │   ├── extra_scatter_tamanho_vs_likes.png
+│   │   │   ├── extra_trigramas.csv
+│   │   │   ├── frequencia_palavras_total_GayerGus_2_instagram.csv
+│   │   │   ├── lda_topicos_GayerGus_2_instagram.csv
+│   │   │   ├── nuvem_palavras_GayerGus_2_instagram.png
+│   │   │   ├── ranking_hashtags_GayerGus_2_instagram.csv
+│   │   │   ├── ranking_mencoes_GayerGus_2_instagram.csv
+│   │   │   ├── resumo_contagem_sentimentos.csv
+│   │   │   ├── sentimento_distribuicao.png
+│   │   │   ├── sentimento_timeline.png
+│   │   │   └── sentimento_vs_likes_boxplot.png
+│   │   ├── metricas_gap_odio.txt
+│   │   ├── nuvem_palavras_CONJUNTA.png
+│   │   ├── twitter
+│   │   │   ├── analise_sentimento_GayerGus_2_twitter.csv
+│   │   │   ├── eda_correlacao_heatmap.png
+│   │   │   ├── eda_distribuicao_texto.png
+│   │   │   ├── eda_resumo_estatistico.csv
+│   │   │   ├── eda_timeline_engajamento.png
+│   │   │   ├── extra_bigramas.csv
+│   │   │   ├── extra_heatmap_horarios.png
+│   │   │   ├── extra_outliers_posts.csv
+│   │   │   ├── extra_scatter_negatividade_vs_likes.png
+│   │   │   ├── extra_scatter_tamanho_vs_likes.png
+│   │   │   ├── extra_trigramas.csv
+│   │   │   ├── frequencia_palavras_total_GayerGus_2_twitter.csv
+│   │   │   ├── lda_topicos_GayerGus_2_twitter.csv
+│   │   │   ├── nuvem_palavras_GayerGus_2_twitter.png
+│   │   │   ├── ranking_mencoes_GayerGus_2_twitter.csv
+│   │   │   ├── resumo_contagem_sentimentos.csv
+│   │   │   ├── sentimento_distribuicao.png
+│   │   │   ├── sentimento_timeline.png
+│   │   │   └── sentimento_vs_likes_boxplot.png
+│   │   └── vocabulario_exclusivo.txt
+│   ├── 3
+│   │   ├── comparativo_engajamento.png
+│   │   ├── comparativo_sentimentos.png
+│   │   ├── comparativo_tabela_GayerGus_3.csv
+│   │   ├── extra_scatter_correlacao_likes.png
+│   │   ├── extra_venn_diagram.png
+│   │   ├── instagram
+│   │   │   ├── analise_sentimento_GayerGus_3_instagram.csv
+│   │   │   ├── eda_correlacao_heatmap.png
+│   │   │   ├── eda_distribuicao_texto.png
+│   │   │   ├── eda_resumo_estatistico.csv
+│   │   │   ├── eda_timeline_engajamento.png
+│   │   │   ├── extra_bigramas.csv
+│   │   │   ├── extra_heatmap_horarios.png
+│   │   │   ├── extra_outliers_posts.csv
+│   │   │   ├── extra_scatter_negatividade_vs_likes.png
+│   │   │   ├── extra_scatter_tamanho_vs_likes.png
+│   │   │   ├── extra_trigramas.csv
+│   │   │   ├── frequencia_palavras_total_GayerGus_3_instagram.csv
+│   │   │   ├── lda_topicos_GayerGus_3_instagram.csv
+│   │   │   ├── nuvem_palavras_GayerGus_3_instagram.png
+│   │   │   ├── ranking_hashtags_GayerGus_3_instagram.csv
+│   │   │   ├── ranking_mencoes_GayerGus_3_instagram.csv
+│   │   │   ├── resumo_contagem_sentimentos.csv
+│   │   │   ├── sentimento_distribuicao.png
+│   │   │   ├── sentimento_timeline.png
+│   │   │   └── sentimento_vs_likes_boxplot.png
+│   │   ├── metricas_gap_odio.txt
+│   │   ├── nuvem_palavras_CONJUNTA.png
+│   │   ├── twitter
+│   │   │   ├── analise_sentimento_GayerGus_3_twitter.csv
+│   │   │   ├── eda_correlacao_heatmap.png
+│   │   │   ├── eda_distribuicao_texto.png
+│   │   │   ├── eda_resumo_estatistico.csv
+│   │   │   ├── eda_timeline_engajamento.png
+│   │   │   ├── extra_bigramas.csv
+│   │   │   ├── extra_heatmap_horarios.png
+│   │   │   ├── extra_outliers_posts.csv
+│   │   │   ├── extra_scatter_negatividade_vs_likes.png
+│   │   │   ├── extra_scatter_tamanho_vs_likes.png
+│   │   │   ├── extra_trigramas.csv
+│   │   │   ├── frequencia_palavras_total_GayerGus_3_twitter.csv
+│   │   │   ├── lda_topicos_GayerGus_3_twitter.csv
+│   │   │   ├── nuvem_palavras_GayerGus_3_twitter.png
+│   │   │   ├── ranking_hashtags_GayerGus_3_twitter.csv
+│   │   │   ├── ranking_mencoes_GayerGus_3_twitter.csv
+│   │   │   ├── resumo_contagem_sentimentos.csv
+│   │   │   ├── sentimento_distribuicao.png
+│   │   │   ├── sentimento_timeline.png
+│   │   │   └── sentimento_vs_likes_boxplot.png
+│   │   └── vocabulario_exclusivo.txt
+│   ├── CONSOLIDADO_GERAL_GayerGus.csv
+│   ├── evolucao_likes_posts.png
+│   ├── evolucao_negatividade.png
+│   ├── extra_heatmap_correlacao.png
+│   ├── extra_radar_contraste.png
+│   ├── extra_venn_triplo_GayerGus.png
+│   └── nuvem_palavras_TOTAL_GayerGus.png
+├── GLOBAL_comparativo_redes_boxplot.png
+├── GLOBAL_correlacao_heatmap.png
+├── GLOBAL_ranking_engajamento.png
+├── GLOBAL_ranking_negatividade.png
+├── grafico_sentimentos.png
+├── grafico_sentimentos_por_conta.png
+├── info_videos.csv
+├── itens.txt
+├── matriz_correlacao.png
+├── media_caracteres_perfil.png
+├── media_caracteres.png
+├── media_emojis_perfil.png
+├── media_emojis.png
+├── media_mencoes_perfil.png
+├── media_mencoes.png
+├── media_palavras_perfil.png
+├── media_palavras.png
+├── nikolas_dm
+│   ├── 1
+│   │   ├── comparativo_engajamento.png
+│   │   ├── comparativo_sentimentos.png
+│   │   ├── comparativo_tabela_nikolas_dm_1.csv
+│   │   ├── extra_scatter_correlacao_likes.png
+│   │   ├── extra_venn_diagram.png
+│   │   ├── instagram
+│   │   │   ├── analise_sentimento_nikolas_dm_1_instagram.csv
+│   │   │   ├── eda_correlacao_heatmap.png
+│   │   │   ├── eda_distribuicao_texto.png
+│   │   │   ├── eda_resumo_estatistico.csv
+│   │   │   ├── eda_timeline_engajamento.png
+│   │   │   ├── extra_heatmap_horarios.png
+│   │   │   ├── extra_outliers_posts.csv
+│   │   │   ├── extra_scatter_negatividade_vs_likes.png
+│   │   │   ├── extra_scatter_tamanho_vs_likes.png
+│   │   │   ├── frequencia_palavras_total_nikolas_dm_1_instagram.csv
+│   │   │   ├── lda_topicos_nikolas_dm_1_instagram.csv
+│   │   │   ├── nuvem_palavras_nikolas_dm_1_instagram.png
+│   │   │   ├── ranking_mencoes_nikolas_dm_1_instagram.csv
+│   │   │   ├── resumo_contagem_sentimentos.csv
+│   │   │   ├── sentimento_distribuicao.png
+│   │   │   ├── sentimento_timeline.png
+│   │   │   └── sentimento_vs_likes_boxplot.png
+│   │   ├── metricas_gap_odio.txt
+│   │   ├── nuvem_palavras_CONJUNTA.png
+│   │   ├── twitter
+│   │   │   ├── analise_sentimento_nikolas_dm_1_twitter.csv
+│   │   │   ├── eda_correlacao_heatmap.png
+│   │   │   ├── eda_distribuicao_texto.png
+│   │   │   ├── eda_resumo_estatistico.csv
+│   │   │   ├── eda_timeline_engajamento.png
+│   │   │   ├── extra_bigramas.csv
+│   │   │   ├── extra_heatmap_horarios.png
+│   │   │   ├── extra_outliers_posts.csv
+│   │   │   ├── extra_scatter_negatividade_vs_likes.png
+│   │   │   ├── extra_scatter_tamanho_vs_likes.png
+│   │   │   ├── extra_trigramas.csv
+│   │   │   ├── frequencia_palavras_total_nikolas_dm_1_twitter.csv
+│   │   │   ├── lda_topicos_nikolas_dm_1_twitter.csv
+│   │   │   ├── nuvem_palavras_nikolas_dm_1_twitter.png
+│   │   │   ├── ranking_hashtags_nikolas_dm_1_twitter.csv
+│   │   │   ├── ranking_mencoes_nikolas_dm_1_twitter.csv
+│   │   │   ├── resumo_contagem_sentimentos.csv
+│   │   │   ├── sentimento_distribuicao.png
+│   │   │   ├── sentimento_timeline.png
+│   │   │   └── sentimento_vs_likes_boxplot.png
+│   │   └── vocabulario_exclusivo.txt
+│   ├── 2
+│   │   ├── comparativo_engajamento.png
+│   │   ├── comparativo_sentimentos.png
+│   │   ├── comparativo_tabela_nikolas_dm_2.csv
+│   │   ├── extra_scatter_correlacao_likes.png
+│   │   ├── extra_venn_diagram.png
+│   │   ├── instagram
+│   │   │   ├── analise_sentimento_nikolas_dm_2_instagram.csv
+│   │   │   ├── eda_correlacao_heatmap.png
+│   │   │   ├── eda_distribuicao_texto.png
+│   │   │   ├── eda_resumo_estatistico.csv
+│   │   │   ├── eda_timeline_engajamento.png
+│   │   │   ├── extra_bigramas.csv
+│   │   │   ├── extra_heatmap_horarios.png
+│   │   │   ├── extra_outliers_posts.csv
+│   │   │   ├── extra_scatter_negatividade_vs_likes.png
+│   │   │   ├── extra_scatter_tamanho_vs_likes.png
+│   │   │   ├── extra_trigramas.csv
+│   │   │   ├── frequencia_palavras_total_nikolas_dm_2_instagram.csv
+│   │   │   ├── lda_topicos_nikolas_dm_2_instagram.csv
+│   │   │   ├── nuvem_palavras_nikolas_dm_2_instagram.png
+│   │   │   ├── ranking_hashtags_nikolas_dm_2_instagram.csv
+│   │   │   ├── ranking_mencoes_nikolas_dm_2_instagram.csv
+│   │   │   ├── resumo_contagem_sentimentos.csv
+│   │   │   ├── sentimento_distribuicao.png
+│   │   │   ├── sentimento_timeline.png
+│   │   │   └── sentimento_vs_likes_boxplot.png
+│   │   ├── metricas_gap_odio.txt
+│   │   ├── nuvem_palavras_CONJUNTA.png
+│   │   ├── twitter
+│   │   │   ├── analise_sentimento_nikolas_dm_2_twitter.csv
+│   │   │   ├── eda_correlacao_heatmap.png
+│   │   │   ├── eda_distribuicao_texto.png
+│   │   │   ├── eda_resumo_estatistico.csv
+│   │   │   ├── eda_timeline_engajamento.png
+│   │   │   ├── extra_bigramas.csv
+│   │   │   ├── extra_heatmap_horarios.png
+│   │   │   ├── extra_outliers_posts.csv
+│   │   │   ├── extra_scatter_negatividade_vs_likes.png
+│   │   │   ├── extra_scatter_tamanho_vs_likes.png
+│   │   │   ├── extra_trigramas.csv
+│   │   │   ├── frequencia_palavras_total_nikolas_dm_2_twitter.csv
+│   │   │   ├── lda_topicos_nikolas_dm_2_twitter.csv
+│   │   │   ├── nuvem_palavras_nikolas_dm_2_twitter.png
+│   │   │   ├── ranking_hashtags_nikolas_dm_2_twitter.csv
+│   │   │   ├── ranking_mencoes_nikolas_dm_2_twitter.csv
+│   │   │   ├── resumo_contagem_sentimentos.csv
+│   │   │   ├── sentimento_distribuicao.png
+│   │   │   ├── sentimento_timeline.png
+│   │   │   └── sentimento_vs_likes_boxplot.png
+│   │   └── vocabulario_exclusivo.txt
+│   ├── 3
+│   │   ├── comparativo_engajamento.png
+│   │   ├── comparativo_sentimentos.png
+│   │   ├── comparativo_tabela_nikolas_dm_3.csv
+│   │   ├── extra_scatter_correlacao_likes.png
+│   │   ├── extra_venn_diagram.png
+│   │   ├── instagram
+│   │   │   ├── analise_sentimento_nikolas_dm_3_instagram.csv
+│   │   │   ├── eda_correlacao_heatmap.png
+│   │   │   ├── eda_distribuicao_texto.png
+│   │   │   ├── eda_resumo_estatistico.csv
+│   │   │   ├── eda_timeline_engajamento.png
+│   │   │   ├── extra_bigramas.csv
+│   │   │   ├── extra_heatmap_horarios.png
+│   │   │   ├── extra_outliers_posts.csv
+│   │   │   ├── extra_scatter_negatividade_vs_likes.png
+│   │   │   ├── extra_scatter_tamanho_vs_likes.png
+│   │   │   ├── extra_trigramas.csv
+│   │   │   ├── frequencia_palavras_total_nikolas_dm_3_instagram.csv
+│   │   │   ├── lda_topicos_nikolas_dm_3_instagram.csv
+│   │   │   ├── nuvem_palavras_nikolas_dm_3_instagram.png
+│   │   │   ├── ranking_hashtags_nikolas_dm_3_instagram.csv
+│   │   │   ├── ranking_mencoes_nikolas_dm_3_instagram.csv
+│   │   │   ├── resumo_contagem_sentimentos.csv
+│   │   │   ├── sentimento_distribuicao.png
+│   │   │   ├── sentimento_timeline.png
+│   │   │   └── sentimento_vs_likes_boxplot.png
+│   │   ├── metricas_gap_odio.txt
+│   │   ├── nuvem_palavras_CONJUNTA.png
+│   │   ├── twitter
+│   │   │   ├── analise_sentimento_nikolas_dm_3_twitter.csv
+│   │   │   ├── eda_correlacao_heatmap.png
+│   │   │   ├── eda_distribuicao_texto.png
+│   │   │   ├── eda_resumo_estatistico.csv
+│   │   │   ├── eda_timeline_engajamento.png
+│   │   │   ├── extra_bigramas.csv
+│   │   │   ├── extra_heatmap_horarios.png
+│   │   │   ├── extra_outliers_posts.csv
+│   │   │   ├── extra_scatter_negatividade_vs_likes.png
+│   │   │   ├── extra_scatter_tamanho_vs_likes.png
+│   │   │   ├── extra_trigramas.csv
+│   │   │   ├── frequencia_palavras_total_nikolas_dm_3_twitter.csv
+│   │   │   ├── lda_topicos_nikolas_dm_3_twitter.csv
+│   │   │   ├── nuvem_palavras_nikolas_dm_3_twitter.png
+│   │   │   ├── ranking_hashtags_nikolas_dm_3_twitter.csv
+│   │   │   ├── ranking_mencoes_nikolas_dm_3_twitter.csv
+│   │   │   ├── resumo_contagem_sentimentos.csv
+│   │   │   ├── sentimento_distribuicao.png
+│   │   │   ├── sentimento_timeline.png
+│   │   │   └── sentimento_vs_likes_boxplot.png
+│   │   └── vocabulario_exclusivo.txt
+│   ├── CONSOLIDADO_GERAL_nikolas_dm.csv
+│   ├── evolucao_likes_posts.png
+│   ├── evolucao_negatividade.png
+│   ├── extra_heatmap_correlacao.png
+│   ├── extra_radar_contraste.png
+│   ├── extra_venn_triplo_nikolas_dm.png
+│   └── nuvem_palavras_TOTAL_nikolas_dm.png
+├── nuvem_instagram.png
+├── nuvem_negativos.png
+├── nuvem_positivos.png
+├── nuvem_twitter.png
+├── porcentagem_midia_por_conta.png
+├── porcentagem_midia_por_rede.png
+├── RELATORIO_GERAL_CONSOLIDADO.csv
+├── top_coment.csv
+└── venn_vocabulario.png
+
+31 directories, 475 files

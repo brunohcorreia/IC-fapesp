@@ -1,0 +1,7 @@
+=== ANÁLISE DO GAP DE ÓDIO ===
+Negatividade Média Instagram: 0.0893
+Negatividade Média Twitter:   0.2844
+Diferencial (Twitter - Insta): 0.1951 (19.51%)
+
+Interpretação:
+O Twitter é MAIS tóxico.
