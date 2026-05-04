@@ -1,6 +1,18 @@
 .
 ├── arquivos.txt
 ├── base_analise_sentimentos.csv
+├── codigos
+│   ├── analise_modular.py
+│   ├── boxplot.py
+│   ├── conta.py
+│   ├── correlacao.py
+│   ├── graf.py
+│   ├── juntar.py
+│   ├── metricas.py
+│   ├── nuvem_se.py
+│   ├── testes.py
+│   ├── twitter_collector.py
+│   └── venn.py
 ├── Prints
 │   ├── print_bolsonaro_1_insta.png
 │   ├── print_bolsonaro_1_twitter.png
@@ -532,4 +544,4 @@
     ├── metricas_bert_detalhado.txt
     └── teste_estatistico_significancia.txt
 
-34 directories, 499 files
+35 directories, 510 files
